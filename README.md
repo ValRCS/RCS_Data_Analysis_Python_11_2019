@@ -19,6 +19,7 @@ Build a complete data analysis pipeline using Python ecosystem
 
 ### Setup (2h)
 * Git and Github
+* short intro to command line
 * Text Editors
 * Anaconda 
 * cloud based tools (Google Colab, myBinder, etc)
