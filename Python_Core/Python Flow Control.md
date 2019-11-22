@@ -4,10 +4,10 @@
 
 * https://realpython.com/python-conditional-statements/
 
-![Types of Flow](img/control.png)
+![Types of Flow](../img/control.png)
 
-![Flow Control](img/python-flow-control.jpg)
+![Flow Control](../img/python-flow-control.jpg)
 
 ## For Loop
-![For Loop](img/forloop.jpg)
+![For Loop](../img/forloop.jpg)
 
