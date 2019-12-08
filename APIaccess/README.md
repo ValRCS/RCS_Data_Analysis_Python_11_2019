@@ -9,6 +9,9 @@
 * https://jsonplaceholder.typicode.com/
 * https://github.com/public-apis/public-apis
 
+### Old list of famous APIs
+* https://www.pythonforbeginners.com/api/list-of-python-apis
+
 ## Beginners guide
 * https://medium.com/quick-code/absolute-beginners-guide-to-slaying-apis-using-python-7b380dc82236
 
