@@ -4,6 +4,14 @@
 * Read the API documentation
 * Start with small code, and complement it with more features.
 
+## JSON APIs - most common
+
+### What is JSON ?
+* https://www.json.org/json-en.html
+
+### How Python works with JSON
+* https://docs.python.org/3/library/json.html
+
 ## Sample APIs
 
 * https://jsonplaceholder.typicode.com/
@@ -11,6 +19,10 @@
 
 ### Old list of famous APIs
 * https://www.pythonforbeginners.com/api/list-of-python-apis
+
+## Github Python API
+(notice it does the work for us of retrieving data instead of requests)
+* https://github.com/PyGithub/PyGithub
 
 ## Beginners guide
 * https://medium.com/quick-code/absolute-beginners-guide-to-slaying-apis-using-python-7b380dc82236
