@@ -5,6 +5,7 @@
 
 * https://sqlzoo.net/
 * https://sqlbolt.com/
+![SQLBolt](https://sqlbolt.com/cs/images/favicon.png)
 
 ## Exercises
 * https://www.hackerrank.com/domains/sql
