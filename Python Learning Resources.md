@@ -32,6 +32,10 @@ Kind of dry and might not be best for beginners
 ## Jupyter Notebooks collection 
 * https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
 
+## Python Book with Jupyter
+
+* https://jupyter4edu.github.io/jupyter-edu-book/
+
 ## Jupyter Tutorial
 * https://www.dataquest.io/blog/jupyter-notebook-tutorial/
 * https://realpython.com/jupyter-notebook-introduction/
