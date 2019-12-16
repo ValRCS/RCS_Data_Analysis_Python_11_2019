@@ -17,3 +17,6 @@ https://scikit-learn.org/stable/modules/linear_model.html
 
 ## Polynomial interpolation
 https://scikit-learn.org/stable/auto_examples/linear_model/plot_polynomial_interpolation.html
+
+### Alternatives to Linear Regression
+* https://economics.stackexchange.com/questions/19456/alternative-to-linear-regression
