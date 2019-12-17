@@ -1,0 +1,3 @@
+Requirement already satisfied: plotly in c:\programdata\anaconda3\lib\site-packages (4.1.1)
+Requirement already satisfied: retrying>=1.3.3 in c:\programdata\anaconda3\lib\site-packages (from plotly) (1.3.3)
+Requirement already satisfied: six in c:\programdata\anaconda3\lib\site-packages (from plotly) (1.12.0)
