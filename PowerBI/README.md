@@ -100,6 +100,7 @@ in Power Bi Python settings point to the right enviroment
 ## plot some stuff with Python!
 
 https://docs.microsoft.com/en-us/power-bi/desktop-python-visuals
+
 https://github.com/santoshc1/PowerBI-AI-samples
 
 
