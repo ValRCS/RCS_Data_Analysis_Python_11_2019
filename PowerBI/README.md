@@ -89,7 +89,7 @@ Anaconda Prompt
 and so on
 in Power Bi Python settings point to the right enviroment
 
-![setting]('../img/powerbi_enviroment.png)
+![setting](../img/powerbi_enviroment.png)
 
 ## plot some stuff with Python!
 
