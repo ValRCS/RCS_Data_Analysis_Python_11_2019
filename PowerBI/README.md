@@ -81,15 +81,16 @@ https://datascience-school.com/blog/power-bi-in-10-minutes-step-by-step-guide/
 * https://community.powerbi.com/t5/Custom-Visuals-Development/Python-Integration-Error/td-p/677350
 
 Anaconda Prompt
-  conda create -n py37 python=3.7
+
+    conda create -n py37 python=3.7
   
-  conda activate py37
+    conda activate py37
   
-  pip install matplotlib
+    pip install matplotlib
   
-  pip install pandas
+    pip install pandas
   
-  pip install seaborn
+    pip install seaborn
   
 and so on
 in Power Bi Python settings point to the right enviroment
